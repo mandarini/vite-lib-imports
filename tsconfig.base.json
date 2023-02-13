@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@custompath/one": ["packages/one/src/index.ts"],
+      "@packimports/one": ["packages/one/src/index.ts"],
       "@packimports/two": ["packages/two/src/index.ts"]
     }
   },
